@@ -3,6 +3,7 @@ const jobPost = [
   "Front-end developer",
   "React developer",
   "Angular developer",
+  "Java developer",
 ];
 const displayContent = document.getElementById("jobDisplay");
 let wordIndex = 0;
